@@ -1,4 +1,6 @@
 this is a new software.
 this software is created to manipulate data.
 i am learning git from scratch 
-I am learning SQL and DBT along with github
+I am learning SQL and DBT along with GitHub
+if i am consistent i will be able to learn all these soon
+it's not a big task anyways
