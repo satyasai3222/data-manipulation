@@ -1,3 +1,4 @@
 this is a new software.
 this software is created to manipulate data.
 i am learning git from scratch 
+I am learning SQL and DBT along with github
